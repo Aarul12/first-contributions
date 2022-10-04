@@ -738,6 +738,7 @@ nowy wpis
 - [Omar Sarfraz](https://github.com/omar-sarfraz)
 - [Lea Lang](https://github.com/Leaxlang)
 - [Courtney Yatteau]
+- [Aarul](https://github.com/Aarul12)
 - [Najeeb Arif](https://githib.com/NajeebArif)
 - [Patrick Ayers](https://github.com/patrickA25)
 - [Pavitra Lalwani](https://github.com/pavitra-lalwani)
